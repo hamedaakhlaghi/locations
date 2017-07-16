@@ -496,7 +496,7 @@
 				DEVELOPMENT_TEAM = H3XVB6RTVU;
 				INFOPLIST_FILE = Locations/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = nuesoft.nuemdCoder.Locations;
+				PRODUCT_BUNDLE_IDENTIFIER = nuesoft.nuemdCoder.locations;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -510,7 +510,7 @@
 				DEVELOPMENT_TEAM = H3XVB6RTVU;
 				INFOPLIST_FILE = Locations/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = nuesoft.nuemdCoder.Locations;
+				PRODUCT_BUNDLE_IDENTIFIER = nuesoft.nuemdCoder.locations;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -593,6 +593,7 @@
 				AF491D171F1B53810090AC25 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AF491D181F1B53810090AC25 /* Build configuration list for PBXNativeTarget "LocationsTests" */ = {
 			isa = XCConfigurationList;
@@ -601,6 +602,7 @@
 				AF491D1A1F1B53810090AC25 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AF491D1B1F1B53810090AC25 /* Build configuration list for PBXNativeTarget "LocationsUITests" */ = {
 			isa = XCConfigurationList;
@@ -609,6 +611,7 @@
 				AF491D1D1F1B53810090AC25 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
